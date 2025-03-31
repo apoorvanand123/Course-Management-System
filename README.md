@@ -98,7 +98,7 @@ The Course Management System is designed to streamline various aspects of learni
 
 - **Get All Students**: `GET /students`
 
-## Future Enhancements
+## Future Enhancements Plan
 
 - Integrate with a front-end framework for a user-friendly interface.
 - Implement course scheduling features.
